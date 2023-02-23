@@ -28,6 +28,7 @@
   display: grid;
   grid-template-columns: 1fr auto;
   align-content: start;
+  background: url("../../img/dec/top-right.svg") no-repeat top right;
 }
 
 .bicicletas-conteudo h2,

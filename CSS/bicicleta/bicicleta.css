@@ -1,4 +1,5 @@
 .bicicleta {
+  background: url("../../img/dec/bottom-left.svg") no-repeat bottom left;
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: start;
